@@ -86,7 +86,7 @@ Key Use Cases
 - View reports
 
 Diagram
-![Booking System Use Case Diagram](assets/alx-booking-uc.png)
+![Booking System Use Case Diagram](alx-booking-uc.png)
 
 ## Acceptance Criteria
 
